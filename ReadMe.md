@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="./assets/kishan_dot_matrix_portrait.svg"
-    alt="Kishan H.P. dot matrix portrait"
+    src="./assets/portrait.svg"
+    alt="Kishan H.P."
     width="500">
 </p>
 # 💫 About Me:
