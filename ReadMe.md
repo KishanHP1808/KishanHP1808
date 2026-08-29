@@ -1,3 +1,9 @@
+<p align="center">
+  <img
+    src="./assets/kishan_dot_matrix_portrait.svg"
+    alt="Kishan H.P. dot matrix portrait"
+    width="500">
+</p>
 # 💫 About Me:
 ## 🚀 What I Like<br><br>- 💻 Building modern web applications<br>- 🎨 Designing clean and interactive user interfaces<br>- 🤖 Exploring AI & Machine Learning<br>- 🐍 Building projects with Python & Django<br>- 🏆 Participating in hackathons and SIH<br>- 🚀 Turning real-world problems into software solutions<br>- 🖥️ Exploring operating systems and computer technologies<br>- 🔧 Experimenting with Arduino and hardware projects
 
