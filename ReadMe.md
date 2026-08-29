@@ -14,3 +14,20 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=KishanHP1808&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/KishanHP1808/KishanHP1808/output/github-contribution-grid-snake-dark.svg">
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/KishanHP1808/KishanHP1808/output/github-contribution-grid-snake.svg">
+
+    <img
+      src="https://raw.githubusercontent.com/KishanHP1808/KishanHP1808/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake">
+  </picture>
+</p>
