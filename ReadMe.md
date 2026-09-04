@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070709,40:18181b,100:a3e635&height=220&section=header&text=KISHAN%20H.P.&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070709,40:18181b,100:a3e635&height=220&section=header&text=KISHAN%20H.P&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 <p align="center">
   <img
     src="./assets/cyber_skill_banner.gif"
