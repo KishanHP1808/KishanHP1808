@@ -1,4 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070709,40:18181b,100:a3e635&height=220&section=header&text=KISHAN%20H.P.&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<p align="center">
+  <img
+    src="./assets/cyber_skill_banner.gif"
+    alt="Cyber Skill Animation"
+    width="100%"
+  />
+</p>
+
+<br>
+
 # 💫 About Me:
 ## 🚀 What I Like<br><br>- 💻 Building modern web applications<br>- 🎨 Designing clean and interactive user interfaces<br>- 🤖 Exploring AI & Machine Learning<br>- 🐍 Building projects with Python & Django<br>- 🏆 Participating in hackathons and SIH<br>- 🚀 Turning real-world problems into software solutions<br>- 🖥️ Exploring operating systems and computer technologies<br>- 🔧 Experimenting with Arduino and hardware projects
 
