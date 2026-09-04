@@ -10,8 +10,8 @@ import os
 WIDTH = 1400
 HEIGHT = 500
 
-FPS = 60
-SKILL_SECONDS = 2.5
+FPS = 180
+SKILL_SECONDS = 2
 
 OUTPUT = "cyber_skill_banner.gif"
 
