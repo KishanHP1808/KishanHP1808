@@ -10,7 +10,7 @@ import os
 WIDTH = 1400
 HEIGHT = 500
 
-FPS = 180
+FPS = 30
 SKILL_SECONDS = 2
 
 OUTPUT = "cyber_skill_banner.gif"
@@ -20,7 +20,7 @@ SKILLS = [
     "AI & WEB DEVELOPER",
     "PYTHON DEVELOPER",
     "UI / UX DEVELOPER",
-    "AI & ML",
+    "EXPLORING ML & DATA SCIENCE "
 ]
 
 # Center of the skill
