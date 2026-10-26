@@ -13,6 +13,12 @@
 ## 🚀 What I Like<br><br>- 💻 Building modern web applications<br>- 🎨 Designing clean and interactive user interfaces<br>- 🤖 Exploring AI & Machine Learning<br>- 🐍 Building projects with Python & Django<br>- 🏆 Participating in hackathons <br>- 🚀 Turning real-world problems into software solutions<br>- 🖥️ Exploring operating systems and computer technologies<br>- 🔧 Experimenting with Arduino and hardware projects
 
 
+<a href="https://kishan-hp-portfolio-bro.ai.studio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"/>
+</a>
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishan_h.p.shaiva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kishan-h-p-9766063b3)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishanhp18@gmail.com) 
 
