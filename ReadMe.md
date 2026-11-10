@@ -35,9 +35,7 @@ These reports are generated from GitHub data and committed to this repository. G
   <img src="./assets/profile/overview.light.svg" alt="GitHub profile overview: repositories, stars, followers and contributions" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="./assets/profile/contributions.light.svg" alt="GitHub contribution history for the last year" width="100%"/>
-</p>
+[GitHub contribution history and streak visualization](https://github.com/Gowrav-M?tab=overview) ([image](https://github.com/Gowrav-M/Gowrav-M/raw/main/assets/profile/contributions.light.svg))
 
 ## 🐍 Contribution Snake
 
