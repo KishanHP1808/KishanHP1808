@@ -8,14 +8,14 @@
 # 💫 About Me:
 ## 🚀 What I Like
 
-- 💻 Building modern web applications
-- 🎨 Designing clean and interactive user interfaces
-- 🤖 Exploring AI & Machine Learning
-- 🐍 Building projects with Python & Django
-- 🏆 Participating in hackathons
-- 🚀 Turning real-world problems into software solutions
-- 🖥️ Exploring operating systems and computer technologies
-- 🔧 Experimenting with Arduino and hardware projects
+- 💻 BUILDING MODERN WEB APPLICATIONS
+- 🎨 DESIGNING CLEAN AND INTERACTIVE USER INTERFACES
+- 🤖 EXPLORING AI & MACHINE LEARNING
+- 🐍 BUILDING PROJECTS WITH PYTHON & DJANGO
+- 🏆 PARTICIPATING IN HACKATHONS
+- 🚀 TURNING REAL-WORLD PROBLEMS INTO SOFTWARE SOLUTIONS
+- 🖥️ EXPLORING OPERATING SYSTEMS AND COMPUTER TECHNOLOGIES
+- 🔧 EXPERIMENTING WITH ARDUINO AND HARDWARE PROJECTS
 
 <a href="https://kishan-hp-portfolio-bro.ai.studio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My Portfolio"/>
