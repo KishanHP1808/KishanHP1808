@@ -1,0 +1,39 @@
+name: Live GitHub Analytics
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/generate_github_analytics.py"
+      - ".github/workflows/github-analytics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generate analytics SVGs
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_github_analytics.py
+      - name: Commit updated analytics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile/*.svg
+          if git diff --cached --quiet; then
+            echo "No analytics changes."
+          else
+            git commit -m "chore: refresh GitHub profile analytics"
+            git push
+          fi
