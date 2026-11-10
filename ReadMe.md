@@ -27,15 +27,28 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📊 Live GitHub Analytics
-
-These reports are generated from GitHub data and committed to this repository. GitHub Actions refreshes them automatically every day.
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./assets/profile/overview.light.svg" alt="GitHub profile overview: repositories, stars, followers and contributions" width="100%"/>
+  <a href="https://github.com/KishanHP1808">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KishanHP1808&theme=tokyonight" alt="GitHub stats" height="180"/>
+  </a>
+  <a href="https://github.com/KishanHP1808">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KishanHP1808&theme=tokyonight" alt="Top languages by repository" height="180"/>
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/KishanHP1808/KishanHP1808/blob/main/assets/profile/overview.light.svg">
+    <img src="./assets/profile/overview.light.svg" alt="GitHub contribution and profile overview" width="100%"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=KishanHP1808&theme=dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=KishanHP1808&theme=dark&hide_border=true" alt="GitHub streak stats" width="70%"/>
+  </a>
+</p>
 
 ## 🐍 Contribution Snake
 
