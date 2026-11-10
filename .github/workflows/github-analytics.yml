@@ -35,5 +35,6 @@ jobs:
             echo "No analytics changes."
           else
             git commit -m "chore: refresh GitHub profile analytics"
+            git pull --rebase origin main
             git push
           fi
