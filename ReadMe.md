@@ -37,6 +37,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KishanHP1808&theme=tokyonight" alt="Top languages by repository" height="180"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=KishanHP1808&theme=dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=KishanHP1808&theme=dark&hide_border=true" alt="GitHub streak stats" width="70%"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/KishanHP1808/KishanHP1808/blob/main/assets/profile/overview.light.svg">
@@ -44,11 +49,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com?user=KishanHP1808&theme=dark&hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=KishanHP1808&theme=dark&hide_border=true" alt="GitHub streak stats" width="70%"/>
-  </a>
-</p>
 
 ## 🐍 Contribution Snake
 
